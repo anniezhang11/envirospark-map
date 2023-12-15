@@ -1,0 +1,568 @@
+{
+  "departure_searches": [
+    {
+      "id": "Seattle",
+      "coords": {
+        "lat": 47.6061,
+        "lng": -122.3328
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "DC",
+      "coords": {
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "San Francisco",
+      "coords": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Los Angeles",
+      "coords": {
+        "lat": 34.0549,
+        "lng": -118.2426
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "San Diego",
+      "coords": {
+        "lat": 32.7157,
+        "lng": -117.1611
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "New York",
+      "coords": {
+        "lat": 40.7128,
+        "lng": -74.0060
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Miami",
+      "coords": {
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Boston",
+      "coords": {
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Phoenix",
+      "coords": {
+        "lat": 33.4484,
+        "lng": -112.0740
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Denver",
+      "coords": {
+        "lat": 39.7392,
+        "lng": -104.9903
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Orlando",
+      "coords": {
+        "lat": 28.5384,
+        "lng": -81.3789
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Portland",
+      "coords": {
+        "lat": 45.5152,
+        "lng": -122.6784
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Sacramento",
+      "coords": {
+        "lat": 38.5816,
+        "lng": -121.4944
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Tampa",
+      "coords": {
+        "lat": 27.9517,
+        "lng": -82.4588
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Salt Lake City",
+      "coords": {
+        "lat": 40.7608,
+        "lng": -111.8910
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Philadelphia",
+      "coords": {
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Jacksonville",
+      "coords": {
+        "lat": 30.3322,
+        "lng": -81.6557
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Chicago",
+      "coords": {
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Columbus",
+      "coords": {
+        "lat": 39.9612,
+        "lng": -82.9988
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Richmond",
+      "coords": {
+        "lat": 37.5407,
+        "lng": -77.4360
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Albuquerque",
+      "coords": {
+        "lat": 35.0844,
+        "lng": -106.6504
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Hartford",
+      "coords": {
+        "lat": 41.7658,
+        "lng": -72.6734
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Nashville",
+      "coords": {
+        "lat": 36.1627,
+        "lng": -86.7816
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Las Vegas",
+      "coords": {
+        "lat": 36.1716,
+        "lng": -115.1391
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Detroit",
+      "coords": {
+        "lat": 42.3314,
+        "lng": -83.0458
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Fresno",
+      "coords": {
+        "lat": 36.7378,
+        "lng": -119.7871
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Pittsburgh",
+      "coords": {
+        "lat": 40.4406,
+        "lng": -79.9959
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Minneapolis",
+      "coords": {
+        "lat": 44.9778,
+        "lng": -93.2650
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Indianapolis",
+      "coords": {
+        "lat": 39.7684,
+        "lng": -86.1581
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "St. Louis",
+      "coords": {
+        "lat": 38.6270,
+        "lng": -90.1994
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Birmingham",
+      "coords": {
+        "lat": 33.5186,
+        "lng": -86.8104
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Oklahoma City",
+      "coords": {
+        "lat": 35.4676,
+        "lng": -97.5164
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Grand Rapids",
+      "coords": {
+        "lat": 42.9634,
+        "lng": -85.6681
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Boise",
+      "coords": {
+        "lat": 43.6150,
+        "lng": -116.2023
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "New Orleans",
+      "coords": {
+        "lat": 29.9511,
+        "lng": -90.0715
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Little Rock",
+      "coords": {
+        "lat": 34.7445,
+        "lng": -92.2880
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Cincinnati",
+      "coords": {
+        "lat": 39.1031,
+        "lng": -84.5120
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Milwaukee",
+      "coords": {
+        "lat": 43.0389,
+        "lng": -87.9065
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Memphis",
+      "coords": {
+        "lat": 35.1495,
+        "lng": -90.0490
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Kansas City",
+      "coords": {
+        "lat": 39.0997,
+        "lng": -94.5786
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Louisville",
+      "coords": {
+        "lat": 38.2527,
+        "lng": -85.7585
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Greenville",
+      "coords": {
+        "lat": 34.8526,
+        "lng": -82.3940
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Harrisburg",
+      "coords": {
+        "lat": 40.2732,
+        "lng": -76.8867
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Cleveland",
+      "coords": {
+        "lat": 41.4993,
+        "lng": -81.6944
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Atlanta",
+      "coords": {
+        "lat": 33.804260,
+        "lng": -84.432670
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Austin",
+      "coords": {
+        "lat": 30.265880,
+        "lng": -97.748920
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    },
+    {
+      "id": "Charlotte",
+      "coords": {
+        "lat": 35.227909,
+        "lng": -80.846329
+      },
+      "departure_time": "2023-09-18T08:00:00Z",
+      "travel_time": 10800,
+      "transportation": {
+        "type": "driving"
+      }
+    }
+  ]
+}
